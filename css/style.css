@@ -22,6 +22,7 @@ header{
     margin: auto;
     margin-top: 10px;
     padding: 15px 50px;
+    border-bottom: 2px solid lightgray;
 }
 .box-blu{
     background-color: rgb(0, 128, 255);
@@ -60,4 +61,53 @@ body{
 }
 #cancel{
     color: red;
+}
+.editorial{
+    background-color: rgb(78, 160, 241);
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.viola{
+    background-color: rgb(169, 31, 164);
+    padding: 5px;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.green{
+    background-color: rgb(24, 209, 45);
+    padding: 5px;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.Mobile{
+    background-color: rgb(234, 68, 22);
+    padding: 5px;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size: 12px;
+}
+.fuc{
+    background-color: rgb(251, 5, 231);
+    padding: 5px;
+    padding: 5px;
+    padding-left: 7px;
+    padding-right: 7px;
+    border-radius: 20px;
+    margin-right: 5px;
+    font-size: 12px;
 }
